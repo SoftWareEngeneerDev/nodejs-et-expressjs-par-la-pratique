@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-et-expressjs-par-la-pratique",
+  "version": "1.0.0",
+  "description": "app for movies fans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoftWareEngeneerDev/nodejs-et-expressjs-par-la-pratique.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoftWareEngeneerDev/nodejs-et-expressjs-par-la-pratique/issues"
+  },
+  "homepage": "https://github.com/SoftWareEngeneerDev/nodejs-et-expressjs-par-la-pratique#readme"
+}
