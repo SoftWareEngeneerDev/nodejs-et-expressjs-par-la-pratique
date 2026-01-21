@@ -2,9 +2,10 @@
   "name": "nodejs-et-expressjs-par-la-pratique",
   "version": "1.0.0",
   "description": "app for movies fans",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/SoftWareEngeneerDev/nodejs-et-expressjs-par-la-pratique/issues"
   },
-  "homepage": "https://github.com/SoftWareEngeneerDev/nodejs-et-expressjs-par-la-pratique#readme"
+  "homepage": "https://github.com/SoftWareEngeneerDev/nodejs-et-expressjs-par-la-pratique#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
 }
