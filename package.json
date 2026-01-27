@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/SoftWareEngeneerDev/nodejs-et-expressjs-par-la-pratique#readme",
   "dependencies": {
+    "body-parser": "^2.2.2",
     "ejs": "^4.0.1",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "multer": "^2.0.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.11"
